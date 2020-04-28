@@ -41,6 +41,9 @@ GEM
       sassc (> 2.0.1, < 3.0)
     jekyll-seo-tag (2.6.1)
       jekyll (>= 3.3, < 5.0)
+    jekyll-theme-console (0.3.7)
+      jekyll (>= 3.5)
+      jekyll-seo-tag
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.2.1)
@@ -64,11 +67,6 @@ GEM
     safe_yaml (1.0.5)
     sassc (2.3.0)
       ffi (~> 1.9)
-    tale (0.2.0)
-      jekyll (~> 4.0)
-      jekyll-feed (~> 0.10)
-      jekyll-paginate (~> 1.1)
-      jekyll-seo-tag (~> 2.5)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     thread_safe (0.3.6)
@@ -87,7 +85,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.12)
   jekyll-paginate
   jekyll-remote-theme
-  tale
+  jekyll-theme-console
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
