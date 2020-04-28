@@ -1,0 +1,13 @@
+title:
+email:
+description: >- 
+  Alright
+baseurl: "/"
+url: "https://smrz.dev"
+github_username:  wltsmrz
+# theme: minima
+remote_theme: chesterhow/tale
+permalink:    /:year-:month-:day/:title
+plugins:
+  - jekyll-remote-theme
+
