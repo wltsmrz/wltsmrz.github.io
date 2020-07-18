@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wltsmrz</title>
+    <link>/</link>
+    <description>Recent content on wltsmrz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Jan 1999 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Init</title>
+      <link>/posts/init/</link>
+      <pubDate>Tue, 12 Jan 1999 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/init/</guid>
+      <description>The tone of this &amp;ldquo;blog,&amp;rdquo; if I should continue to write things here, will probably be semi-professional, mostly-technical.</description>
+    </item>
+    
+  </channel>
+</rss>
