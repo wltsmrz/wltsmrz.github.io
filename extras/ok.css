@@ -1,0 +1,21 @@
+
+#sidebar,
+#print-button,
+#theme-toggle,
+div.left-buttons,
+nav.nav-wrapper,
+pre > .buttons button {
+  display:none !important;
+}
+
+h1.menu-title {
+  visibility: hidden !important;
+}
+
+div#page-wrapper {
+  margin-left:0 !important;
+}
+
+#git-repository-button {
+  font-size:26px;
+}
